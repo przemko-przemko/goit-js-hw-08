@@ -1,1 +1,1 @@
-przemko-przemko.github.io
+https://przemko-przemko.github.io/goit-js-hw-08/
