@@ -20,7 +20,7 @@ player.setCurrentTime(localStorage.getItem(LOCAL_KEY))
 
 
 
-function myFunction(a) {
-    const b = [...a].sort((c,d) => c-d)
-       return b
+//function myFunction(a) {
+  //  const b = [...a].sort((c,d) => c-d)
+     //  return b
     }
